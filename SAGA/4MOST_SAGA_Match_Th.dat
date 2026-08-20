@@ -1,0 +1,644 @@
+Found match for BD-15_5781 in 4MOST catalog: 6887351938881045504. 
+                   Th_RA: 311.39374999999995, Th_DEC: -14.520833333333334. 
+                   4MOST_RA: 311.39394871828, 4MOST_DEC: -14.52097008239. 
+                   Th_teff: 4550, Th_logg: 0.7, Th_Met: -2.87, Th_FeH: -2.92+-0.15, Th_KFe: 0.13+-0.36. 
+Found match for BD-20_6008 in 4MOST catalog: 6857966322398347008. 
+                   Th_RA: 310.7029166666667, Th_DEC: -20.010833333333334. 
+                   4MOST_RA: 310.70313906588, 4MOST_DEC: -20.0109723454. 
+                   Th_teff: 4540, Th_logg: 0.65, Th_Met: -3.05, Th_FeH: -3+-0.15, Th_KFe: <0.52. 
+Found match for CS22166-016 in 4MOST catalog: 2372010867355028608. 
+                   Th_RA: 14.599333333333334, Th_DEC: -14.78525. 
+                   4MOST_RA: 14.59948230771, 4MOST_DEC: -14.78531531244. 
+                   Th_teff: 4900, Th_logg: 1.75, Th_Met: -3.09, Th_FeH: -3.22+-0.15, Th_KFe: <1.21. 
+Found match for CS22169-035 in 4MOST catalog: 3189438526418585728. 
+                   Th_RA: 63.05783333333334, Th_DEC: -12.084750000000001. 
+                   4MOST_RA: 63.05787558469, 4MOST_DEC: -12.08476501409. 
+                   Th_teff: 4480, Th_logg: 0.5, Th_Met: -3.12, Th_FeH: -3.31+-0.15, Th_KFe: <0.98. 
+Found match for CS22171-037 in 4MOST catalog: 2462280222239224704. 
+                   Th_RA: 32.00241666666667, Th_DEC: -9.063416666666667. 
+                   4MOST_RA: 32.002485705, 4MOST_DEC: -9.06357295598. 
+                   Th_teff: 6110, Th_logg: 3.65, Th_Met: -3.35, Th_FeH: -3.63+-0.21, Th_KFe: <3.29. 
+Found match for CS22172-029 in 4MOST catalog: 5163769468367757568. 
+                   Th_RA: 52.68895833333333, Th_DEC: -10.619416666666668. 
+                   4MOST_RA: 52.68905350217, 4MOST_DEC: -10.61947247917. 
+                   Th_teff: 4960, Th_logg: 1.9, Th_Met: -2.7, Th_FeH: -2.68+-0.14, Th_KFe: <1.12. 
+Found match for CS22175-007 in 4MOST catalog: 2486033590409430144. 
+                   Th_RA: 34.36083333333333, Th_DEC: -9.0125. 
+                   4MOST_RA: 34.36097202351, 4MOST_DEC: -9.0126211227. 
+                   Th_teff: 5108, Th_logg: 2.46, Th_Met: -2.81, Th_FeH: -2.64, Th_KFe: <1.51. 
+Found match for CS22177-009 in 4MOST catalog: 4890881265153979904. 
+                   Th_RA: 61.91933333333333, Th_DEC: -25.045527777777778. 
+                   4MOST_RA: 61.91947993123, 4MOST_DEC: -25.04582130279. 
+                   Th_teff: 5940, Th_logg: 3.55, Th_Met: -3.37, Th_FeH: -3.42+-0.21, Th_KFe: <2.97. 
+Found match for CS22177-010 in 4MOST catalog: 4890598793745223168. 
+                   Th_RA: 62.502, Th_DEC: -25.74413888888889. 
+                   4MOST_RA: 62.50215529348, 4MOST_DEC: -25.7442310769. 
+                   Th_teff: 6050, Th_logg: 3.7, Th_Met: -2.88, Th_FeH: -3+-0.22, Th_KFe: <2.56. 
+Found match for CS22182-033 in 4MOST catalog: 4884814159991712384. 
+                   Th_RA: 65.79366666666668, Th_DEC: -30.617833333333333. 
+                   4MOST_RA: 65.79383941763, 4MOST_DEC: -30.61786064754. 
+                   Th_teff: 5810, Th_logg: 3.6, Th_Met: -2.47, Th_FeH: -2.65+-0.21, Th_KFe: <2.1. 
+Found match for CS22182-047 in 4MOST catalog: 4892329493766425472. 
+                   Th_RA: 65.62558333333332, Th_DEC: -27.580694444444443. 
+                   4MOST_RA: 65.62599216544, 4MOST_DEC: -27.58097172982. 
+                   Th_teff: 5640, Th_logg: 3.6, Th_Met: -1.99, Th_FeH: -2.18+-0.21, Th_KFe: <1.48. 
+Found match for CS22183-031 in 4MOST catalog: 2482988183718639872. 
+                   Th_RA: 17.271166666666666, Th_DEC: -4.722527777777778. 
+                   4MOST_RA: 17.27130407436, 4MOST_DEC: -4.72263707604. 
+                   Th_teff: 4850, Th_logg: 1.6, Th_Met: -3.5, Th_FeH: -3.57+-0.15, Th_KFe: <1.55. 
+Found match for CS22186-002 in 4MOST catalog: 4869529677055502848. 
+                   Th_RA: 63.488416666666666, Th_DEC: -36.77375. 
+                   4MOST_RA: 63.4886610606, 4MOST_DEC: -36.77370152999. 
+                   Th_teff: 5500, Th_logg: 3.35, Th_Met: -2.5, Th_FeH: -2.72+-0.21, Th_KFe: <1.98. 
+Found match for CS22186-017 in 4MOST catalog: 4870415780347876480. 
+                   Th_RA: 64.09275, Th_DEC: -34.29933333333333. 
+                   4MOST_RA: 64.09328827012, 4MOST_DEC: -34.29920068572. 
+                   Th_teff: 5770, Th_logg: 3.55, Th_Met: -2.9, Th_FeH: -2.82+-0.21, Th_KFe: <2.29. 
+Found match for CS22186-023 in 4MOST catalog: 4868824473488625024. 
+                   Th_RA: 64.93958333333333, Th_DEC: -36.859722222222224. 
+                   4MOST_RA: 64.93976925537, 4MOST_DEC: -36.86000350594. 
+                   Th_teff: 4820, Th_logg: 1.55, Th_Met: -2.89, Th_FeH: -3.04+-0.15, Th_KFe: <1.09. 
+Found match for CS22189-009 in 4MOST catalog: 5170309947645049728. 
+                   Th_RA: 40.42658333333333, Th_DEC: -13.469583333333333. 
+                   4MOST_RA: 40.42656602858, 4MOST_DEC: -13.46963284196. 
+                   Th_teff: 4540, Th_logg: 0.6, Th_Met: -3.85, Th_FeH: -3.92+-0.15, Th_KFe: <1.29. 
+Found match for CS22877-011 in 4MOST catalog: 3624497513543695488. 
+                   Th_RA: 198.66737499999996, Th_DEC: -9.596277777777779. 
+                   4MOST_RA: 198.66726611806, 4MOST_DEC: -9.59625583851. 
+                   Th_teff: 4950, Th_logg: 1.9, Th_Met: -3.12, Th_FeH: -3.23+-0.15, Th_KFe: <1.25. 
+Found match for CS22877-011 in 4MOST catalog: 3624497513543695488. 
+                   Th_RA: 198.66737499999996, Th_DEC: -9.596277777777779. 
+                   4MOST_RA: 198.66726611806, 4MOST_DEC: -9.59625583851. 
+                   Th_teff: 4950, Th_logg: 1.9, Th_Met: -3.12, Th_FeH: -3.23+-0.15, Th_KFe: <1.25. 
+Found match for CS22877-015 in 4MOST catalog: 3624709684928013184. 
+                   Th_RA: 198.43858333333333, Th_DEC: -9.261972222222223. 
+                   4MOST_RA: 198.43837154631, 4MOST_DEC: -9.26211696106. 
+                   Th_teff: 6150, Th_logg: 3.85, Th_Met: -2, Th_FeH: -2.12+-0.21, Th_KFe: <1.97. 
+Found match for CS22879-012 in 4MOST catalog: 6681171655879399168. 
+                   Th_RA: 309.3084583333333, Th_DEC: -41.04263888888889. 
+                   4MOST_RA: 309.3086153144, 4MOST_DEC: -41.0427000376. 
+                   Th_teff: 6020, Th_logg: 3.65, Th_Met: -2.81, Th_FeH: -3.01+-0.21, Th_KFe: <2.56. 
+Found match for CS22879-097 in 4MOST catalog: 6777919539434538752. 
+                   Th_RA: 312.194, Th_DEC: -38.51372222222222. 
+                   4MOST_RA: 312.19395834044, 4MOST_DEC: -38.51381202653. 
+                   Th_teff: 5640, Th_logg: 1.55, Th_Met: -2.64, Th_FeH: -2.66+-0.17, Th_KFe: <1.7. 
+Found match for CS22879-097 in 4MOST catalog: 6777919539434538752. 
+                   Th_RA: 312.194, Th_DEC: -38.51372222222222. 
+                   4MOST_RA: 312.19395834044, 4MOST_DEC: -38.51381202653. 
+                   Th_teff: 5640, Th_logg: 1.55, Th_Met: -2.64, Th_FeH: -2.66+-0.17, Th_KFe: <1.7. 
+Found match for CS22880-067 in 4MOST catalog: 6856759230429127552. 
+                   Th_RA: 312.28291666666667, Th_DEC: -21.581944444444446. 
+                   4MOST_RA: 312.2827447754, 4MOST_DEC: -21.58207570551. 
+                   Th_teff: 5570, Th_logg: 3.35, Th_Met: -3.37, Th_FeH: -3.23+-0.21, Th_KFe: <2.79. 
+Found match for CS22880-086 in 4MOST catalog: 6858709351740044800. 
+                   Th_RA: 311.44804166666665, Th_DEC: -18.558972222222224. 
+                   4MOST_RA: 311.44804228065, 4MOST_DEC: -18.55902851539. 
+                   Th_teff: 4960, Th_logg: 1.9, Th_Met: -3.25, Th_FeH: -3.28+-0.15, Th_KFe: <1.62. 
+Found match for CS22881-032 in 4MOST catalog: 6571776845986040704. 
+                   Th_RA: 330.7524166666667, Th_DEC: -41.24063888888889. 
+                   4MOST_RA: 330.75246388281, 4MOST_DEC: -41.24064620949. 
+                   Th_teff: 5430, Th_logg: 3.2, Th_Met: -3.1, Th_FeH: -3.55+-0.23, Th_KFe: <2.93. 
+Found match for CS22881-070 in 4MOST catalog: 6570479697143341824. 
+                   Th_RA: 334.154375, Th_DEC: -40.735. 
+                   4MOST_RA: 334.15443054703, 4MOST_DEC: -40.73501187901. 
+                   Th_teff: 6020, Th_logg: 3.7, Th_Met: -2.73, Th_FeH: -2.96+-0.21, Th_KFe: <2.6. 
+Found match for CS22882-030 in 4MOST catalog: 2318389815572034816. 
+                   Th_RA: 7.583500000000001, Th_DEC: -30.349555555555554. 
+                   4MOST_RA: 7.58369652498, 4MOST_DEC: -30.34957600004. 
+                   Th_teff: 5580, Th_logg: 3.4, Th_Met: -3.14, Th_FeH: -3.47+-0.22, Th_KFe: <2.86. 
+Found match for CS22884-108 in 4MOST catalog: 4347546393017485184. 
+                   Th_RA: 237.48991666666666, Th_DEC: -9.235888888888889. 
+                   4MOST_RA: 237.48983226204, 4MOST_DEC: -9.23592184289. 
+                   Th_teff: 6320, Th_logg: 3.75, Th_Met: -3.21, Th_FeH: -3.1+-0.22, Th_KFe: <2.87. 
+Found match for CS22885-096 in 4MOST catalog: 6692925538259931136. 
+                   Th_RA: 305.21320833333334, Th_DEC: -39.89172222222222. 
+                   4MOST_RA: 305.21319497983, 4MOST_DEC: -39.89176278669. 
+                   Th_teff: 4580, Th_logg: 0.75, Th_Met: -4.21, Th_FeH: -4.41+-0.15, Th_KFe: <1.86. 
+Found match for CS22886-013 in 4MOST catalog: 2615991776003475968. 
+                   Th_RA: 333.0125, Th_DEC: -8.762777777777778. 
+                   4MOST_RA: 333.01257022899, 4MOST_DEC: -8.76280885867. 
+                   Th_teff: 6200, Th_logg: 1.75, Th_Met: -2.6, Th_FeH: -2.58+-0.17, Th_KFe: <2.09. 
+Found match for CS22886-042 in 4MOST catalog: 2614799493082260224. 
+                   Th_RA: 335.10749999999996, Th_DEC: -10.38888888888889. 
+                   4MOST_RA: 335.10757940242, 4MOST_DEC: -10.38894360848. 
+                   Th_teff: 4881, Th_logg: 1.85, Th_Met: -2.68, Th_FeH: -2.51, Th_KFe: <0.92. 
+Found match for CS22888-002 in 4MOST catalog: 6553176132899304832. 
+                   Th_RA: 346.155125, Th_DEC: -36.66608333333333. 
+                   4MOST_RA: 346.15516397572, 4MOST_DEC: -36.66631179122. 
+                   Th_teff: 5700, Th_logg: 3.5, Th_Met: -2.91, Th_FeH: -2.93+-0.21, Th_KFe: <2.19. 
+Found match for CS22888-014 in 4MOST catalog: 6554906661122176512. 
+                   Th_RA: 346.06470833333333, Th_DEC: -33.49577777777778. 
+                   4MOST_RA: 346.06490127143, 4MOST_DEC: -33.49603282446. 
+                   Th_teff: 6020, Th_logg: 3.7, Th_Met: -2.69, Th_FeH: -2.73+-0.21, Th_KFe: <2.52. 
+Found match for CS22888-031 in 4MOST catalog: 6553564535381928320. 
+                   Th_RA: 347.88529166666666, Th_DEC: -35.445249999999994. 
+                   4MOST_RA: 347.88563754186, 4MOST_DEC: -35.44536469997. 
+                   Th_teff: 5810, Th_logg: 3.5, Th_Met: -3.41, Th_FeH: -3.71+-0.22, Th_KFe: <3.1. 
+Found match for CS22891-184 in 4MOST catalog: 6445970897334542976. 
+                   Th_RA: 291.55133333333333, Th_DEC: -60.56841666666667. 
+                   4MOST_RA: 291.55123914893, 4MOST_DEC: -60.56838647902. 
+                   Th_teff: 5530, Th_logg: 1.6, Th_Met: -2.67, Th_FeH: -2.68+-0.17, Th_KFe: <1.54. 
+Found match for CS22891-184 in 4MOST catalog: 6445970897334542976. 
+                   Th_RA: 291.55133333333333, Th_DEC: -60.56841666666667. 
+                   4MOST_RA: 291.55123914893, 4MOST_DEC: -60.56838647902. 
+                   Th_teff: 5530, Th_logg: 1.6, Th_Met: -2.67, Th_FeH: -2.68+-0.17, Th_KFe: <1.54. 
+Found match for CS22891-200 in 4MOST catalog: 6445220927325014016. 
+                   Th_RA: 293.82949999999994, Th_DEC: -61.70677777777778. 
+                   4MOST_RA: 293.8294431701, 4MOST_DEC: -61.70676732713. 
+                   Th_teff: 4490, Th_logg: 0.5, Th_Met: -3.88, Th_FeH: -4.06+-0.15, Th_KFe: <1.54. 
+Found match for CS22891-209 in 4MOST catalog: 6445356540916942336. 
+                   Th_RA: 295.50899999999996, Th_DEC: -61.062416666666664. 
+                   4MOST_RA: 295.50908874021, 4MOST_DEC: -61.06244393369. 
+                   Th_teff: 4620, Th_logg: 0.95, Th_Met: -3.26, Th_FeH: -3.49+-0.15, Th_KFe: <0.93. 
+Found match for CS22891-221 in 4MOST catalog: 6446388883552221440. 
+                   Th_RA: 293.79358333333334, Th_DEC: -59.699527777777774. 
+                   4MOST_RA: 293.79329176654, 4MOST_DEC: -59.69981430094. 
+                   Th_teff: 5290, Th_logg: 2.8, Th_Met: -3.48, Th_FeH: -3.23+-0.15, Th_KFe: <1.95. 
+Found match for CS22892-052 in 4MOST catalog: 6826025986350385280. 
+                   Th_RA: 334.2569166666667, Th_DEC: -16.657527777777776. 
+                   4MOST_RA: 334.25695654634, 4MOST_DEC: -16.65754332147. 
+                   Th_teff: 4790, Th_logg: 1.6, Th_Met: -2.92, Th_FeH: -2.91+-0.14, Th_KFe: 1.43+-0.15. 
+Found match for CS22892-052 in 4MOST catalog: 6826025986350385280. 
+                   Th_RA: 334.2569166666667, Th_DEC: -16.657527777777776. 
+                   4MOST_RA: 334.25695654634, 4MOST_DEC: -16.65754332147. 
+                   Th_teff: 4790, Th_logg: 1.6, Th_Met: -2.92, Th_FeH: -2.91+-0.14, Th_KFe: 1.43+-0.15. 
+Found match for CS22894-023 in 4MOST catalog: 2640806447772614272. 
+                   Th_RA: 354.3274166666667, Th_DEC: -2.1411944444444444. 
+                   4MOST_RA: 354.32747321044, 4MOST_DEC: -2.14108224674. 
+                   Th_teff: 5980, Th_logg: 3.65, Th_Met: -2.82, Th_FeH: -3.14+-0.21, Th_KFe: <2.51. 
+Found match for CS22896-110 in 4MOST catalog: 6645203744317443968. 
+                   Th_RA: 293.95004166666666, Th_DEC: -53.437888888888885. 
+                   4MOST_RA: 293.94998234565, 4MOST_DEC: -53.43794663701. 
+                   Th_teff: 5380, Th_logg: 1.15, Th_Met: -2.86, Th_FeH: -2.85+-0.17, Th_KFe: <1.39. 
+Found match for CS22896-115 in 4MOST catalog: 6645293079637794688. 
+                   Th_RA: 293.771125, Th_DEC: -52.78658333333333. 
+                   4MOST_RA: 293.77071765474, 4MOST_DEC: -52.78703475029. 
+                   Th_teff: 5910, Th_logg: 3.65, Th_Met: -2.72, Th_FeH: -2.82+-0.21, Th_KFe: <2.18. 
+Found match for CS22897-008 in 4MOST catalog: 6449369934453211264. 
+                   Th_RA: 315.79941666666673, Th_DEC: -65.08577777777778. 
+                   4MOST_RA: 315.79938369246, 4MOST_DEC: -65.08582043149. 
+                   Th_teff: 4550, Th_logg: 0.7, Th_Met: -3.73, Th_FeH: -3.83+-0.15, Th_KFe: <1.44. 
+Found match for CS22898-043 in 4MOST catalog: 6831980086629213696. 
+                   Th_RA: 317.65320833333334, Th_DEC: -21.747722222222222. 
+                   4MOST_RA: 317.65319303359, 4MOST_DEC: -21.74777420572. 
+                   Th_teff: 6160, Th_logg: 2.15, Th_Met: -2.8, Th_FeH: -2.83+-0.17, Th_KFe: <2.09. 
+Found match for CS22898-047 in 4MOST catalog: 6808294853820822016. 
+                   Th_RA: 316.49854166666665, Th_DEC: -21.115722222222225. 
+                   4MOST_RA: 316.49854348507, 4MOST_DEC: -21.11570701116. 
+                   Th_teff: 5150, Th_logg: 2.4, Th_Met: -3.45, Th_FeH: -3.51+-0.15, Th_KFe: <1.81. 
+Found match for CS22937-072 in 4MOST catalog: 6775823698472482816. 
+                   Th_RA: 318.66925000000003, Th_DEC: -37.41438888888889. 
+                   4MOST_RA: 318.66923295967, 4MOST_DEC: -37.41439270021. 
+                   Th_teff: 5500, Th_logg: 1.75, Th_Met: -2.71, Th_FeH: -2.72+-0.17, Th_KFe: <1.41. 
+Found match for CS22940-077 in 4MOST catalog: 6455379452693778304. 
+                   Th_RA: 310.3904583333333, Th_DEC: -59.843111111111114. 
+                   4MOST_RA: 310.3905562288, 4MOST_DEC: -59.84313795681. 
+                   Th_teff: 5350, Th_logg: 1.35, Th_Met: -3.1, Th_FeH: -3.1+-0.17, Th_KFe: <1.4. 
+Found match for CS22940-121 in 4MOST catalog: 6457181483531484160. 
+                   Th_RA: 313.7952916666667, Th_DEC: -58.01533333333333. 
+                   4MOST_RA: 313.79526842294, 4MOST_DEC: -58.01536890752. 
+                   Th_teff: 5200, Th_logg: 1.15, Th_Met: -3.13, Th_FeH: -3.14+-0.17, Th_KFe: <1.31. 
+Found match for CS22941-017 in 4MOST catalog: 2324242069289811584. 
+                   Th_RA: 353.20908333333335, Th_DEC: -33.99041666666667. 
+                   4MOST_RA: 353.20907724465, 4MOST_DEC: -33.99045123926. 
+                   Th_teff: 5070, Th_logg: 2.2, Th_Met: -3.08, Th_FeH: -3.11+-0.15, Th_KFe: <1.65. 
+Found match for CS22942-002 in 4MOST catalog: 2345608599578875264. 
+                   Th_RA: 11.649500000000002, Th_DEC: -24.717305555555555. 
+                   4MOST_RA: 11.64957101158, 4MOST_DEC: -24.71732561857. 
+                   Th_teff: 5010, Th_logg: 2, Th_Met: -3.53, Th_FeH: -3.61+-0.15, Th_KFe: <1.64. 
+Found match for CS22942-002 in 4MOST catalog: 2345608599578875264. 
+                   Th_RA: 11.649500000000002, Th_DEC: -24.717305555555555. 
+                   4MOST_RA: 11.64957101158, 4MOST_DEC: -24.71732561857. 
+                   Th_teff: 5010, Th_logg: 2, Th_Met: -3.53, Th_FeH: -3.61+-0.15, Th_KFe: <1.64. 
+Found match for CS22943-059 in 4MOST catalog: 6673963807404236416. 
+                   Th_RA: 304.75275, Th_DEC: -43.28966666666666. 
+                   4MOST_RA: 304.7528276743, 4MOST_DEC: -43.28997602284. 
+                   Th_teff: 5810, Th_logg: 3.6, Th_Met: -2.64, Th_FeH: -2.95+-0.21, Th_KFe: <2.24. 
+Found match for CS22943-132 in 4MOST catalog: 6679228303437917696. 
+                   Th_RA: 305.712125, Th_DEC: -43.227611111111116. 
+                   4MOST_RA: 305.71257479394, 4MOST_DEC: -43.22781776491. 
+                   Th_teff: 5850, Th_logg: 3.6, Th_Met: -2.67, Th_FeH: -2.63+-0.21, Th_KFe: <2.05. 
+Found match for CS22943-132 in 4MOST catalog: 6679228303437917696. 
+                   Th_RA: 305.712125, Th_DEC: -43.227611111111116. 
+                   4MOST_RA: 305.71257479394, 4MOST_DEC: -43.22781776491. 
+                   Th_teff: 5850, Th_logg: 3.6, Th_Met: -2.67, Th_FeH: -2.63+-0.21, Th_KFe: <2.05. 
+Found match for CS22943-137 in 4MOST catalog: 6679272730578886144. 
+                   Th_RA: 306.62083333333334, Th_DEC: -43.01186111111111. 
+                   4MOST_RA: 306.62081445312, 4MOST_DEC: -43.01192330547. 
+                   Th_teff: 5400, Th_logg: 3.1, Th_Met: -3.39, Th_FeH: -3.64+-0.15, Th_KFe: <2.67. 
+Found match for CS22943-201 in 4MOST catalog: 6676149533440551936. 
+                   Th_RA: 309.12004166666674, Th_DEC: -43.82505555555556. 
+                   4MOST_RA: 309.12004869822, 4MOST_DEC: -43.82513741005. 
+                   Th_teff: 5970, Th_logg: 2.45, Th_Met: -2.69, Th_FeH: -2.68+-0.17, Th_KFe: <2.07. 
+Found match for CS22944-032 in 4MOST catalog: 6843367247521239424. 
+                   Th_RA: 326.93012500000003, Th_DEC: -13.673. 
+                   4MOST_RA: 326.93005645833, 4MOST_DEC: -13.67325055725. 
+                   Th_teff: 5090, Th_logg: 2.3, Th_Met: -3.15, Th_FeH: -3.22+-0.15, Th_KFe: <1.47. 
+Found match for CS22944-061 in 4MOST catalog: 6840374205072012672. 
+                   Th_RA: 327.576875, Th_DEC: -13.756666666666666. 
+                   4MOST_RA: 327.57711544336, 4MOST_DEC: -13.75664825259. 
+                   Th_teff: 5920, Th_logg: 3.6, Th_Met: -2.95, Th_FeH: -2.96+-0.22, Th_KFe: <2.63. 
+Found match for CS22945-028 in 4MOST catalog: 6389702943105373952. 
+                   Th_RA: 352.80625, Th_DEC: -66.49916666666667. 
+                   4MOST_RA: 352.80642533865, 4MOST_DEC: -66.49947050588. 
+                   Th_teff: 5126, Th_logg: 2.55, Th_Met: -2.66, Th_FeH: -2.49, Th_KFe: <1.44. 
+Found match for CS22945-058 in 4MOST catalog: 6389179335052544256. 
+                   Th_RA: 358.1575, Th_DEC: -66.08380555555556. 
+                   4MOST_RA: 358.15780687755, 4MOST_DEC: -66.08389615697. 
+                   Th_teff: 5990, Th_logg: 3.65, Th_Met: -2.71, Th_FeH: -2.98+-0.21, Th_KFe: <2.72. 
+Found match for CS22945-063 in 4MOST catalog: 4899994429841100672. 
+                   Th_RA: 0.654125, Th_DEC: -65.75588888888889. 
+                   4MOST_RA: 0.65407724186, 4MOST_DEC: -65.7559214714. 
+                   Th_teff: 5730, Th_logg: 1.7, Th_Met: -2.84, Th_FeH: -2.84+-0.17, Th_KFe: <1.79. 
+Found match for CS22947-187 in 4MOST catalog: 6663163201607650688. 
+                   Th_RA: 289.63166666666666, Th_DEC: -47.22527777777778. 
+                   4MOST_RA: 289.63182692958, 4MOST_DEC: -47.22541058099. 
+                   Th_teff: 5300, Th_logg: 1.4, Th_Met: -2.58, Th_FeH: -2.58+-0.17, Th_KFe: <1.22. 
+Found match for CS22948-066 in 4MOST catalog: 6586084653360277504. 
+                   Th_RA: 326.2129166666667, Th_DEC: -37.46527777777778. 
+                   4MOST_RA: 326.21318540965, 4MOST_DEC: -37.46531153308. 
+                   Th_teff: 4830, Th_logg: 1.55, Th_Met: -3.18, Th_FeH: -3.5+-0.15, Th_KFe: <1.5. 
+Found match for CS22949-048 in 4MOST catalog: 2632781348624598784. 
+                   Th_RA: 351.5308333333333, Th_DEC: -5.835555555555556. 
+                   4MOST_RA: 351.53092494309, 4MOST_DEC: -5.83526583127. 
+                   Th_teff: 4620, Th_logg: 0.95, Th_Met: -3.37, Th_FeH: -3.55+-0.15, Th_KFe: <1.24. 
+Found match for CS22950-046 in 4MOST catalog: 6876806419780834048. 
+                   Th_RA: 305.36833333333334, Th_DEC: -13.276000000000002. 
+                   4MOST_RA: 305.3683306072, 4MOST_DEC: -13.27600872857. 
+                   Th_teff: 4380, Th_logg: 0.5, Th_Met: -3.64, Th_FeH: -4.12+-0.14, Th_KFe: <1.69. 
+Found match for CS22951-005 in 4MOST catalog: 6564411251951240576. 
+                   Th_RA: 326.4445833333333, Th_DEC: -46.082861111111114. 
+                   4MOST_RA: 326.44459804691, 4MOST_DEC: -46.08285576306. 
+                   Th_teff: 5950, Th_logg: 3.65, Th_Met: -2.67, Th_FeH: -2.74+-0.21, Th_KFe: <2.51. 
+Found match for CS22953-003 in 4MOST catalog: 4710594687144052096. 
+                   Th_RA: 15.566083333333335, Th_DEC: -61.72938888888889. 
+                   4MOST_RA: 15.56609870601, 4MOST_DEC: -61.72946915262. 
+                   Th_teff: 4860, Th_logg: 1.65, Th_Met: -3, Th_FeH: -3.13+-0.14, Th_KFe: 1.15+-0.22. 
+Found match for CS22954-004 in 4MOST catalog: 5179009489802246528. 
+                   Th_RA: 39.563625, Th_DEC: -5.721444444444445. 
+                   4MOST_RA: 39.56382919076, 4MOST_DEC: -5.72162377639. 
+                   Th_teff: 5810, Th_logg: 3.55, Th_Met: -2.78, Th_FeH: -3+-0.21, Th_KFe: <2.48. 
+Found match for CS22955-174 in 4MOST catalog: 6806586625070080768. 
+                   Th_RA: 310.521, Th_DEC: -23.820194444444443. 
+                   4MOST_RA: 310.52098016135, 4MOST_DEC: -23.82021606342. 
+                   Th_teff: 5520, Th_logg: 1.35, Th_Met: -3.1, Th_FeH: -3.1+-0.17, Th_KFe: <1.64. 
+Found match for CS22956-015 in 4MOST catalog: 6402070249895891328. 
+                   Th_RA: 327.58554166666664, Th_DEC: -64.81811111111111. 
+                   4MOST_RA: 327.58568142864, 4MOST_DEC: -64.8183356294. 
+                   Th_teff: 5960, Th_logg: 3.7, Th_Met: -2.48, Th_FeH: -2.81+-0.21, Th_KFe: <2.64. 
+Found match for CS22956-050 in 4MOST catalog: 6399358510623784192. 
+                   Th_RA: 329.5242083333333, Th_DEC: -65.22422222222222. 
+                   4MOST_RA: 329.52429353537, 4MOST_DEC: -65.2242383414. 
+                   Th_teff: 4640, Th_logg: 1, Th_Met: -3.57, Th_FeH: -3.67+-0.15, Th_KFe: <1.4. 
+Found match for CS22956-081 in 4MOST catalog: 6405661942066464384. 
+                   Th_RA: 331.0495833333333, Th_DEC: -62.84788888888889. 
+                   4MOST_RA: 331.0496841436, 4MOST_DEC: -62.84801519571. 
+                   Th_teff: 6310, Th_logg: 3.8, Th_Met: -2.8, Th_FeH: -2.71+-0.22, Th_KFe: <3.01. 
+Found match for CS22956-106 in 4MOST catalog: 6398368743999997440. 
+                   Th_RA: 334.21008333333333, Th_DEC: -66.08475. 
+                   4MOST_RA: 334.21038903566, 4MOST_DEC: -66.08494223919. 
+                   Th_teff: 6410, Th_logg: 3.9, Th_Met: -2.6, Th_FeH: -2.69+-0.22, Th_KFe: <2.86. 
+Found match for CS22956-110 in 4MOST catalog: 6398059953031316736. 
+                   Th_RA: 334.9313333333333, Th_DEC: -66.68941666666667. 
+                   4MOST_RA: 334.93128127524, 4MOST_DEC: -66.68947283564. 
+                   Th_teff: 6010, Th_logg: 1.85, Th_Met: -3.14, Th_FeH: -3.15+-0.17, Th_KFe: <2.52. 
+Found match for CS22956-114 in 4MOST catalog: 6404228831738676736. 
+                   Th_RA: 336.534125, Th_DEC: -65.55183333333333. 
+                   4MOST_RA: 336.53414543691, 4MOST_DEC: -65.55188498456. 
+                   Th_teff: 4900, Th_logg: 1.75, Th_Met: -2.86, Th_FeH: -3.19+-0.15, Th_KFe: <1.43. 
+Found match for CS22958-037 in 4MOST catalog: 4718490761179917312. 
+                   Th_RA: 29.66541666666667, Th_DEC: -57.057472222222216. 
+                   4MOST_RA: 29.66545502134, 4MOST_DEC: -57.05746365753. 
+                   Th_teff: 5770, Th_logg: 2.1, Th_Met: -2.51, Th_FeH: -2.51+-0.17, Th_KFe: <1.49. 
+Found match for CS22958-052 in 4MOST catalog: 4742398404575483648. 
+                   Th_RA: 33.200916666666664, Th_DEC: -56.48563888888889. 
+                   4MOST_RA: 33.20121718781, 4MOST_DEC: -56.48559550543. 
+                   Th_teff: 6090, Th_logg: 3.75, Th_Met: -2.42, Th_FeH: -2.62+-0.22, Th_KFe: <2.66. 
+Found match for CS22960-010 in 4MOST catalog: 6567601381859314560. 
+                   Th_RA: 332.10541666666666, Th_DEC: -44.89888888888889. 
+                   4MOST_RA: 332.1048436416, 4MOST_DEC: -44.89928055493. 
+                   Th_teff: 5280, Th_logg: 4, Th_Met: -3.03, Th_FeH: -3.02+-0.1, Th_KFe: <2.2. 
+Found match for CS22960-029 in 4MOST catalog: 6567966144841941760. 
+                   Th_RA: 332.8980833333333, Th_DEC: -44.422888888888885. 
+                   4MOST_RA: 332.89828510584, 4MOST_DEC: -44.4229853454. 
+                   Th_teff: 5890, Th_logg: 3.6, Th_Met: -2.77, Th_FeH: -3.05+-0.22, Th_KFe: <2.7. 
+Found match for CS22960-048 in 4MOST catalog: 6567131271918958720. 
+                   Th_RA: 334.2565416666667, Th_DEC: -45.20472222222222. 
+                   4MOST_RA: 334.256502169, 4MOST_DEC: -45.20478353828. 
+                   Th_teff: 4770, Th_logg: 1.4, Th_Met: -3.78, Th_FeH: -3.91+-0.15, Th_KFe: <1.98. 
+Found match for CS22963-004 in 4MOST catalog: 5184426749232471808. 
+                   Th_RA: 44.19404166666667, Th_DEC: -4.854861111111111. 
+                   4MOST_RA: 44.19414444069, 4MOST_DEC: -4.85485135012. 
+                   Th_teff: 5060, Th_logg: 2.15, Th_Met: -3.85, Th_FeH: -4.09+-0.15, Th_KFe: <2.7. 
+Found match for CS22964-176 in 4MOST catalog: 6687606925638939392. 
+                   Th_RA: 300.52970833333336, Th_DEC: -40.357194444444445. 
+                   4MOST_RA: 300.52964351667, 4MOST_DEC: -40.35732342529. 
+                   Th_teff: 6000, Th_logg: 3.7, Th_Met: -2.46, Th_FeH: -2.56+-0.21, Th_KFe: <2.25. 
+Found match for CS22964-183 in 4MOST catalog: 6687567446299483520. 
+                   Th_RA: 300.30316666666664, Th_DEC: -40.81941666666667. 
+                   4MOST_RA: 300.30315051496, 4MOST_DEC: -40.81958261562. 
+                   Th_teff: 6010, Th_logg: 3.65, Th_Met: -2.87, Th_FeH: -3.01+-0.21, Th_KFe: <2.81. 
+Found match for CS22968-001 in 4MOST catalog: 4728289059050923136. 
+                   Th_RA: 44.46208333333333, Th_DEC: -56.85436111111111. 
+                   4MOST_RA: 44.46198006887, 4MOST_DEC: -56.8543813625. 
+                   Th_teff: 5940, Th_logg: 3.65, Th_Met: -2.84, Th_FeH: -3.12+-0.21, Th_KFe: <2.66. 
+Found match for CS22968-014 in 4MOST catalog: 4734734636730938240. 
+                   Th_RA: 46.62295833333334, Th_DEC: -54.509027777777774. 
+                   4MOST_RA: 46.62291907859, 4MOST_DEC: -54.50905038104. 
+                   Th_teff: 4540, Th_logg: 0.6, Th_Met: -3.85, Th_FeH: -3.99+-0.15, Th_KFe: <1.32. 
+Found match for CS22968-029 in 4MOST catalog: 4733761981259047808. 
+                   Th_RA: 49.11595833333333, Th_DEC: -55.08338888888889. 
+                   4MOST_RA: 49.1165349847, 4MOST_DEC: -55.08349804265. 
+                   Th_teff: 5760, Th_logg: 3.5, Th_Met: -3.11, Th_FeH: -3.1+-0.21, Th_KFe: <2.59. 
+Found match for CS29491-069 in 4MOST catalog: 6600971319243174144. 
+                   Th_RA: 337.75875, Th_DEC: -32.64333333333333. 
+                   4MOST_RA: 337.75916111496, 4MOST_DEC: -32.64363386951. 
+                   Th_teff: 5300, Th_logg: 2.8, Th_Met: -2.6, Th_FeH: -2.6, Th_KFe: 1.08+-0.25. 
+Found match for CS29493-023 in 4MOST catalog: 6809912888259178240. 
+                   Th_RA: 326.87570833333336, Th_DEC: -27.918583333333334. 
+                   4MOST_RA: 326.87590147191, 4MOST_DEC: -27.91868068039. 
+                   Th_teff: 5980, Th_logg: 3.65, Th_Met: -2.66, Th_FeH: -2.89+-0.21, Th_KFe: <2.62. 
+Found match for CS29493-062 in 4MOST catalog: 6810043146027150080. 
+                   Th_RA: 328.12920833333334, Th_DEC: -28.16033333333333. 
+                   4MOST_RA: 328.12924407461, 4MOST_DEC: -28.1603869412. 
+                   Th_teff: 5520, Th_logg: 3.4, Th_Met: -2.59, Th_FeH: -2.76+-0.21, Th_KFe: <1.83. 
+Found match for CS29493-094 in 4MOST catalog: 6616708865394570368. 
+                   Th_RA: 329.3640833333333, Th_DEC: -30.134138888888888. 
+                   4MOST_RA: 329.36425054657, 4MOST_DEC: -30.13408817893. 
+                   Th_teff: 6130, Th_logg: 3.8, Th_Met: -2.44, Th_FeH: -2.66+-0.21, Th_KFe: <2.48. 
+Found match for CS29497-004 in 4MOST catalog: 2322729725405593728. 
+                   Th_RA: 7.0287500000000005, Th_DEC: -26.051111111111112. 
+                   4MOST_RA: 7.02886159626, 4MOST_DEC: -26.05118402158. 
+                   Th_teff: 5090, Th_logg: 2.4, Th_Met: -2.64, Th_FeH: -2.68+-0.16, Th_KFe: 1.66+-0.15. 
+Found match for CS29499-060 in 4MOST catalog: 2334432377416784512. 
+                   Th_RA: 358.4175, Th_DEC: -26.978888888888886. 
+                   4MOST_RA: 358.41830671353, 4MOST_DEC: -26.97877995472. 
+                   Th_teff: 6280, Th_logg: 3.8, Th_Met: -2.75, Th_FeH: -2.79+-0.22, Th_KFe: <2.38. 
+Found match for CS29501-032 in 4MOST catalog: 6777063054235649920. 
+                   Th_RA: 316.9687083333333, Th_DEC: -35.213166666666666. 
+                   4MOST_RA: 316.96879056067, 4MOST_DEC: -35.21328331842. 
+                   Th_teff: 5950, Th_logg: 3.65, Th_Met: -2.71, Th_FeH: -2.92+-0.21, Th_KFe: <2.6. 
+Found match for CS29506-090 in 4MOST catalog: 6828192853186579712. 
+                   Th_RA: 322.6202916666666, Th_DEC: -22.17816666666667. 
+                   4MOST_RA: 322.62023486529, 4MOST_DEC: -22.17839742077. 
+                   Th_teff: 5940, Th_logg: 3.6, Th_Met: -3.08, Th_FeH: -3.21+-0.22, Th_KFe: <2.84. 
+Found match for CS29510-058 in 4MOST catalog: 5119932352084889472. 
+                   Th_RA: 35.44375, Th_DEC: -24.032777777777778. 
+                   4MOST_RA: 35.44411112865, 4MOST_DEC: -24.03305233065. 
+                   Th_teff: 5108, Th_logg: 2.32, Th_Met: -2.61, Th_FeH: -2.44, Th_KFe: <1.18. 
+Found match for CS29513-003 in 4MOST catalog: 6530217849075138176. 
+                   Th_RA: 348.88212500000003, Th_DEC: -41.93883333333333. 
+                   4MOST_RA: 348.88213196584, 4MOST_DEC: -41.93891879807. 
+                   Th_teff: 5480, Th_logg: 1.9, Th_Met: -2.46, Th_FeH: -2.47+-0.17, Th_KFe: <1.18. 
+Found match for CS29513-015 in 4MOST catalog: 6550048331555897728. 
+                   Th_RA: 348.6376666666667, Th_DEC: -37.601444444444446. 
+                   4MOST_RA: 348.63758382463, 4MOST_DEC: -37.60154888132. 
+                   Th_teff: 6110, Th_logg: 3.75, Th_Met: -2.51, Th_FeH: -2.63+-0.21, Th_KFe: <2.33. 
+Found match for CS29514-018 in 4MOST catalog: 5034506964396341632. 
+                   Th_RA: 17.369208333333333, Th_DEC: -26.6635. 
+                   4MOST_RA: 17.36925403511, 4MOST_DEC: -26.66352392598. 
+                   Th_teff: 5990, Th_logg: 3.7, Th_Met: -2.58, Th_FeH: -2.84+-0.21, Th_KFe: <2.32. 
+Found match for CS29514-018 in 4MOST catalog: 5034506964396341632. 
+                   Th_RA: 17.369208333333333, Th_DEC: -26.6635. 
+                   4MOST_RA: 17.36925403511, 4MOST_DEC: -26.66352392598. 
+                   Th_teff: 5990, Th_logg: 3.7, Th_Met: -2.58, Th_FeH: -2.84+-0.21, Th_KFe: <2.32. 
+Found match for CS29514-037 in 4MOST catalog: 5036544531241087616. 
+                   Th_RA: 20.423708333333334, Th_DEC: -27.058694444444445. 
+                   4MOST_RA: 20.42390432901, 4MOST_DEC: -27.05887646817. 
+                   Th_teff: 5970, Th_logg: 3.7, Th_Met: -2.47, Th_FeH: -2.62+-0.21, Th_KFe: <2.12. 
+Found match for CS29529-054 in 4MOST catalog: 4679456071169507712. 
+                   Th_RA: 59.84945833333334, Th_DEC: -62.16913888888889. 
+                   4MOST_RA: 59.84974649994, 4MOST_DEC: -62.16927218846. 
+                   Th_teff: 5710, Th_logg: 3.55, Th_Met: -2.75, Th_FeH: -2.55+-0.21, Th_KFe: <2.11. 
+Found match for CS30312-059 in 4MOST catalog: 4415995041995447168. 
+                   Th_RA: 233.70333333333332, Th_DEC: -1.393888888888889. 
+                   4MOST_RA: 233.70339866023, 4MOST_DEC: -1.39375982448. 
+                   Th_teff: 4780, Th_logg: 1.4, Th_Met: -3.26, Th_FeH: -3.41+-0.15, Th_KFe: <1.25. 
+Found match for CS30339-015 in 4MOST catalog: 2316002741468288256. 
+                   Th_RA: 4.242125, Th_DEC: -33.80488888888888. 
+                   4MOST_RA: 4.24242800184, 4MOST_DEC: -33.8050558006. 
+                   Th_teff: 5840, Th_logg: 3.6, Th_Met: -2.86, Th_FeH: -3+-0.22, Th_KFe: <2.61. 
+Found match for CS30492-001 in 4MOST catalog: 6581005631193395328. 
+                   Th_RA: 316.480125, Th_DEC: -42.16947222222222. 
+                   4MOST_RA: 316.48024124275, 4MOST_DEC: -42.16968036317. 
+                   Th_teff: 5790, Th_logg: 3.65, Th_Met: -2.35, Th_FeH: -2.62+-0.21, Th_KFe: <2.23. 
+Found match for CS30492-016 in 4MOST catalog: 6773603642760602880. 
+                   Th_RA: 316.20733333333334, Th_DEC: -40.24663888888889. 
+                   4MOST_RA: 316.2075094684, 4MOST_DEC: -40.24706922695. 
+                   Th_teff: 5570, Th_logg: 3.35, Th_Met: -3.4, Th_FeH: -3.3+-0.22, Th_KFe: <2.61. 
+Found match for CS30492-110 in 4MOST catalog: 6583725956102513024. 
+                   Th_RA: 320.44095833333336, Th_DEC: -38.14941666666667. 
+                   4MOST_RA: 320.4409774987, 4MOST_DEC: -38.14941615142. 
+                   Th_teff: 4660, Th_logg: 1.05, Th_Met: -3.16, Th_FeH: -3.27+-0.15, Th_KFe: <1.25. 
+Found match for CS30493-071 in 4MOST catalog: 6551990717630424064. 
+                   Th_RA: 349.12833333333333, Th_DEC: -35.576638888888894. 
+                   4MOST_RA: 349.12842217131, 4MOST_DEC: -35.57664409274. 
+                   Th_teff: 5700, Th_logg: 3.55, Th_Met: -2.46, Th_FeH: -2.82+-0.21, Th_KFe: <2.21. 
+Found match for CS31082-001 in 4MOST catalog: 2451773941958712192. 
+                   Th_RA: 22.37975, Th_DEC: -16.01263888888889. 
+                   4MOST_RA: 22.37976737421, 4MOST_DEC: -16.01282775355. 
+                   Th_teff: 4825, Th_logg: 1.5, Th_Met: -2.9, Th_FeH: -2.9, Th_KFe: 1.86+-0.05. 
+Found match for CS31082-001 in 4MOST catalog: 2451773941958712192. 
+                   Th_RA: 22.37975, Th_DEC: -16.01263888888889. 
+                   4MOST_RA: 22.37976737421, 4MOST_DEC: -16.01282775355. 
+                   Th_teff: 4825, Th_logg: 1.5, Th_Met: -2.9, Th_FeH: -2.9, Th_KFe: 1.86+-0.05. 
+Found match for G122-69 in 4MOST catalog: 3893075047062188416. 
+                   Th_RA: 180.76791666666668, Th_DEC: 4.023944444444444. 
+                   4MOST_RA: 180.7672968751, 4MOST_DEC: 4.02382565664. 
+                   Th_teff: 6010, Th_logg: 3.7, Th_Met: -2.5, Th_FeH: -2.78+-0.22, Th_KFe: <3.06. 
+Found match for HD186478 in 4MOST catalog: 6871465473332110464. 
+                   Th_RA: 296.30875, Th_DEC: -17.490833333333335. 
+                   4MOST_RA: 296.3088176197, 4MOST_DEC: -17.49123120322. 
+                   Th_teff: 4525, Th_logg: 0.85, Th_Met: -2.4, Th_FeH: -2.44+-0.16, Th_KFe: 0.08+-0.11. 
+Found match for HD196944 in 4MOST catalog: 6907236881547590144. 
+                   Th_RA: 310.1920416666667, Th_DEC: -6.797416666666667. 
+                   4MOST_RA: 310.1921790294, 4MOST_DEC: -6.79752467124. 
+                   Th_teff: 5310, Th_logg: 1.75, Th_Met: -2.39, Th_FeH: -2.39+-0.17, Th_KFe: <1.28. 
+Found match for HD204543 in 4MOST catalog: 2672702897842335872. 
+                   Th_RA: 322.3675, Th_DEC: -3.515277777777778. 
+                   4MOST_RA: 322.3675459267, 4MOST_DEC: -3.51558452464. 
+                   Th_teff: 4672, Th_logg: 1.49, Th_Met: -1.87, Th_FeH: -1.87, Th_KFe: 0.13+-0.14. 
+Found match for HD6268 in 4MOST catalog: 5033960575837265920. 
+                   Th_RA: 15.825708333333333, Th_DEC: -27.880555555555556. 
+                   4MOST_RA: 15.82556743734, 4MOST_DEC: -27.88069223216. 
+                   Th_teff: 4570, Th_logg: 0.7, Th_Met: -2.69, Th_FeH: -2.82+-0.15, Th_KFe: 0.54+-0.29. 
+Found match for HE0051-2304 in 4MOST catalog: 2346229862303885696. 
+                   Th_RA: 13.464666666666666, Th_DEC: -22.798333333333336. 
+                   4MOST_RA: 13.4646682365, 4MOST_DEC: -22.79837685289. 
+                   Th_teff: 4537, Th_logg: 1.22, Th_Met: -2.41, Th_FeH: -2.24, Th_KFe: 0.24. 
+Found match for HE0057-4541 in 4MOST catalog: 4981520433902398208. 
+                   Th_RA: 14.996666666666666, Th_DEC: -45.415. 
+                   4MOST_RA: 14.99699392056, 4MOST_DEC: -45.41489640819. 
+                   Th_teff: 5144, Th_logg: 2.73, Th_Met: -2.4, Th_FeH: -2.34, Th_KFe: <0.88. 
+Found match for HE0105-6141 in 4MOST catalog: 4710655641320069248. 
+                   Th_RA: 16.907625, Th_DEC: -61.42155555555555. 
+                   4MOST_RA: 16.90772846897, 4MOST_DEC: -61.4216269469. 
+                   Th_teff: 5218, Th_logg: 2.83, Th_Met: -2.55, Th_FeH: -2.38, Th_KFe: 1.45. 
+Found match for HE0121-2826 in 4MOST catalog: 5036176401003999360. 
+                   Th_RA: 20.90475, Th_DEC: -28.174444444444447. 
+                   4MOST_RA: 20.90476376041, 4MOST_DEC: -28.17446798442. 
+                   Th_teff: 4955, Th_logg: 1.99, Th_Met: -2.97, Th_FeH: -2.8, Th_KFe: <1.04. 
+Found match for HE0323-4529 in 4MOST catalog: 4846789096533034880. 
+                   Th_RA: 51.375875, Th_DEC: -45.32541666666667. 
+                   4MOST_RA: 51.37591533554, 4MOST_DEC: -45.32541506193. 
+                   Th_teff: 5127, Th_logg: 2.51, Th_Met: -3.15, Th_FeH: -2.98, Th_KFe: <1.56. 
+Found match for HE0328-1047 in 4MOST catalog: 5163769468367757568. 
+                   Th_RA: 52.68895833333333, Th_DEC: -10.619416666666668. 
+                   4MOST_RA: 52.68905350217, 4MOST_DEC: -10.61947247917. 
+                   Th_teff: 5301, Th_logg: 3.03, Th_Met: -2.25, Th_FeH: -2.08, Th_KFe: <0.48. 
+Found match for HE0338-3945 in 4MOST catalog: 4856059422664301440. 
+                   Th_RA: 54.97916666666667, Th_DEC: -39.59525. 
+                   4MOST_RA: 54.97927593839, 4MOST_DEC: -39.59527489618. 
+                   Th_teff: 6160, Th_logg: 4.13, Th_Met: -2.42, Th_FeH: -2.43+-0.05, Th_KFe: <2.6+-0.11. 
+Found match for HE0340-5355 in 4MOST catalog: 4732421161186915200. 
+                   Th_RA: 55.39404166666667, Th_DEC: -53.77166666666667. 
+                   4MOST_RA: 55.39402766931, 4MOST_DEC: -53.77168926278. 
+                   Th_teff: 4862, Th_logg: 1.81, Th_Met: -2.89, Th_FeH: -2.72, Th_KFe: <0.65. 
+Found match for HE0347-1819 in 4MOST catalog: 5107284429313904256. 
+                   Th_RA: 57.326541666666664, Th_DEC: -18.177944444444446. 
+                   4MOST_RA: 57.32663573317, 4MOST_DEC: -18.1781691107. 
+                   Th_teff: 5198, Th_logg: 4.23, Th_Met: -2.78, Th_FeH: -2.61, Th_KFe: <1.71. 
+Found match for HE0442-1234 in 4MOST catalog: 3180769873666186496. 
+                   Th_RA: 71.21541666666667, Th_DEC: -12.479305555555555. 
+                   4MOST_RA: 71.21547424608, 4MOST_DEC: -12.4793677287. 
+                   Th_teff: 4604, Th_logg: 1.34, Th_Met: -2.41, Th_FeH: -2.24, Th_KFe: 0.27. 
+Found match for HE0450-4705 in 4MOST catalog: 4786891482623487232. 
+                   Th_RA: 72.88987499999999, Th_DEC: -47.001083333333334. 
+                   4MOST_RA: 72.88998488009, 4MOST_DEC: -47.00118158127. 
+                   Th_teff: 5429, Th_logg: 3.34, Th_Met: -3.1, Th_FeH: -2.93, Th_KFe: <1.87. 
+Found match for HE0520-1748 in 4MOST catalog: 2981983531483571840. 
+                   Th_RA: 80.60775, Th_DEC: -17.768583333333332. 
+                   4MOST_RA: 80.60779162943, 4MOST_DEC: -17.76863948363. 
+                   Th_teff: 5272, Th_logg: 3.06, Th_Met: -2.52, Th_FeH: -2.35, Th_KFe: <0.47. 
+Found match for HE0524-2055 in 4MOST catalog: 2968089243566558976. 
+                   Th_RA: 81.76833333333333, Th_DEC: -20.878333333333334. 
+                   4MOST_RA: 81.7685243309, 4MOST_DEC: -20.87836220611. 
+                   Th_teff: 4749, Th_logg: 1.53, Th_Met: -2.77, Th_FeH: -2.74, Th_KFe: <0.56. 
+Found match for HE1052-2548 in 4MOST catalog: 5457973628633589376. 
+                   Th_RA: 163.83558333333332, Th_DEC: -26.08. 
+                   4MOST_RA: 163.83543947359, 4MOST_DEC: -26.080156792. 
+                   Th_teff: 6534, Th_logg: 4.52, Th_Met: -2.29, Th_FeH: -2.12, Th_KFe: <2.12. 
+Found match for HE1052-2548 in 4MOST catalog: 5457973628633589376. 
+                   Th_RA: 163.83558333333332, Th_DEC: -26.08. 
+                   4MOST_RA: 163.83543947359, 4MOST_DEC: -26.080156792. 
+                   Th_teff: 6534, Th_logg: 4.52, Th_Met: -2.29, Th_FeH: -2.12, Th_KFe: <2.12. 
+Found match for HE1124-2335 in 4MOST catalog: 3534825915028932608. 
+                   Th_RA: 171.86225, Th_DEC: -23.86825. 
+                   4MOST_RA: 171.86224667023, 4MOST_DEC: -23.868234715. 
+                   Th_teff: 4870, Th_logg: 1.65, Th_Met: -3.26, Th_FeH: -3.36+-0.15, Th_KFe: <1.48. 
+Found match for HE1124-2335 in 4MOST catalog: 3534825915028932608. 
+                   Th_RA: 171.86225, Th_DEC: -23.86825. 
+                   4MOST_RA: 171.86224667023, 4MOST_DEC: -23.868234715. 
+                   Th_teff: 4870, Th_logg: 1.65, Th_Met: -3.26, Th_FeH: -3.36+-0.15, Th_KFe: <1.48. 
+Found match for HE1127-1143 in 4MOST catalog: 3586332193633511808. 
+                   Th_RA: 172.46091666666666, Th_DEC: -12.003444444444444. 
+                   4MOST_RA: 172.46094910586, 4MOST_DEC: -12.00351594457. 
+                   Th_teff: 5224, Th_logg: 2.64, Th_Met: -2.73, Th_FeH: -2.56, Th_KFe: <1.19. 
+Found match for HE1219-0312 in 4MOST catalog: 3693297117190538368. 
+                   Th_RA: 185.39225, Th_DEC: -3.477666666666667. 
+                   4MOST_RA: 185.39225005868, 4MOST_DEC: -3.47771568389. 
+                   Th_teff: 5060, Th_logg: 2.3, Th_Met: -2.97, Th_FeH: -2.97, Th_KFe: 1.72+-0.21. 
+Found match for HE1246-1344 in 4MOST catalog: 3525688801601880576. 
+                   Th_RA: 192.334375, Th_DEC: -14.011555555555555. 
+                   4MOST_RA: 192.33434190488, 4MOST_DEC: -14.0115788186. 
+                   Th_teff: 4853, Th_logg: 1.65, Th_Met: -3.4, Th_FeH: -3.23, Th_KFe: <1.01. 
+Found match for HE1247-2114 in 4MOST catalog: 3502566278228163968. 
+                   Th_RA: 192.52133333333336, Th_DEC: -21.513166666666667. 
+                   4MOST_RA: 192.52130612552, 4MOST_DEC: -21.51322102199. 
+                   Th_teff: 5012, Th_logg: 2.08, Th_Met: -2.61, Th_FeH: -2.44, Th_KFe: <0.51. 
+Found match for HE1251-0104 in 4MOST catalog: 3688759050448950272. 
+                   Th_RA: 193.46695833333334, Th_DEC: -1.3431666666666666. 
+                   4MOST_RA: 193.46694392831, 4MOST_DEC: -1.34323703254. 
+                   Th_teff: 5084, Th_logg: 2.32, Th_Met: -2.73, Th_FeH: -2.56, Th_KFe: <0.86. 
+Found match for HE1251-0104 in 4MOST catalog: 3688759050448950272. 
+                   Th_RA: 193.46695833333334, Th_DEC: -1.3431666666666666. 
+                   4MOST_RA: 193.46694392831, 4MOST_DEC: -1.34323703254. 
+                   Th_teff: 5084, Th_logg: 2.32, Th_Met: -2.73, Th_FeH: -2.56, Th_KFe: <0.86. 
+Found match for HE1300-0642 in 4MOST catalog: 3629020114106228480. 
+                   Th_RA: 195.84750000000003, Th_DEC: -6.973111111111111. 
+                   4MOST_RA: 195.84745400156, 4MOST_DEC: -6.97314509956. 
+                   Th_teff: 5173, Th_logg: 2.68, Th_Met: -3.03, Th_FeH: -2.86, Th_KFe: <1.55. 
+Found match for HE1300-2431 in 4MOST catalog: 3497824462534672384. 
+                   Th_RA: 195.75016666666667, Th_DEC: -24.786722222222224. 
+                   4MOST_RA: 195.75014936064, 4MOST_DEC: -24.7867383093. 
+                   Th_teff: 5029, Th_logg: 1.96, Th_Met: -3.25, Th_FeH: -3.08, Th_KFe: <1.2. 
+Found match for HE1320-1339 in 4MOST catalog: 3608447014600045824. 
+                   Th_RA: 200.68379166666668, Th_DEC: -13.925388888888888. 
+                   4MOST_RA: 200.6836960244, 4MOST_DEC: -13.9253854647. 
+                   Th_teff: 4690, Th_logg: 1.2, Th_Met: -2.93, Th_FeH: -3.18+-0.15, Th_KFe: <0.74. 
+Found match for HE1320-1339 in 4MOST catalog: 3608447014600045824. 
+                   Th_RA: 200.68379166666668, Th_DEC: -13.925388888888888. 
+                   4MOST_RA: 200.6836960244, 4MOST_DEC: -13.9253854647. 
+                   Th_teff: 4690, Th_logg: 1.2, Th_Met: -2.93, Th_FeH: -3.18+-0.15, Th_KFe: <0.74. 
+Found match for HE1330-0354 in 4MOST catalog: 3633795224386184448. 
+                   Th_RA: 203.29445833333335, Th_DEC: -4.168277777777778. 
+                   4MOST_RA: 203.29438112931, 4MOST_DEC: -4.1685168315. 
+                   Th_teff: 6257, Th_logg: 4.13, Th_Met: -2.29, Th_FeH: -2.12, Th_KFe: <2.1. 
+Found match for HE1332-0309 in 4MOST catalog: 3636862896187467136. 
+                   Th_RA: 203.65783333333334, Th_DEC: -3.414722222222222. 
+                   4MOST_RA: 203.65781927379, 4MOST_DEC: -3.41469210967. 
+                   Th_teff: 5125, Th_logg: 2.4, Th_Met: -2.46, Th_FeH: -2.29, Th_KFe: 1.26. 
+Found match for HE2153-2719 in 4MOST catalog: 6811699899596579200. 
+                   Th_RA: 329.017, Th_DEC: -27.080472222222223. 
+                   4MOST_RA: 329.0170015949, 4MOST_DEC: -27.08051386429. 
+                   Th_teff: 4898, Th_logg: 2.01, Th_Met: -2.49, Th_FeH: -2.32, Th_KFe: <-0.55. 
+Found match for HE2219-0713 in 4MOST catalog: 2622617123834983808. 
+                   Th_RA: 335.56575, Th_DEC: -6.976222222222223. 
+                   4MOST_RA: 335.56572974812, 4MOST_DEC: -6.97628182512. 
+                   Th_teff: 4789, Th_logg: 1.68, Th_Met: -2.91, Th_FeH: -2.74, Th_KFe: 0.71. 
+Found match for HE2224-4103 in 4MOST catalog: 6593554323040179584. 
+                   Th_RA: 336.95116666666667, Th_DEC: -40.806916666666666. 
+                   4MOST_RA: 336.95125126513, 4MOST_DEC: -40.80692366526. 
+                   Th_teff: 5074, Th_logg: 2.32, Th_Met: -2.64, Th_FeH: -2.47, Th_KFe: <0.7. 
+Found match for HE2229-4153 in 4MOST catalog: 6545245248153468800. 
+                   Th_RA: 338.2041666666667, Th_DEC: -41.640277777777776. 
+                   4MOST_RA: 338.20435265061, 4MOST_DEC: -41.64045449543. 
+                   Th_teff: 5138, Th_logg: 2.47, Th_Met: -2.62, Th_FeH: -2.45, Th_KFe: <0.48. 
+Found match for HE2252-4225 in 4MOST catalog: 6542909786672462336. 
+                   Th_RA: 343.74399999999997, Th_DEC: -42.15536111111111. 
+                   4MOST_RA: 343.74403361823, 4MOST_DEC: -42.15540394132. 
+                   Th_teff: 4710, Th_logg: 1.65, Th_Met: -2.63, Th_FeH: -2.94+-0.08, Th_KFe: 1.25. 
+Found match for HE2327-5642 in 4MOST catalog: 6495850379767072128. 
+                   Th_RA: 352.6545, Th_DEC: -56.437305555555554. 
+                   4MOST_RA: 352.6546412338, 4MOST_DEC: -56.43736768223. 
+                   Th_teff: 5050, Th_logg: 2.34, Th_Met: -2.78, Th_FeH: -2.78+-0.09, Th_KFe: 1.05. 
+Found match for HE2338-1618 in 4MOST catalog: 2395507259041462912. 
+                   Th_RA: 355.151625, Th_DEC: -16.024083333333333. 
+                   4MOST_RA: 355.15169177429, 4MOST_DEC: -16.02417127425. 
+                   Th_teff: 5515, Th_logg: 3.38, Th_Met: -2.65, Th_FeH: -2.48, Th_KFe: <1.66. 
+Found match for J005327.8-025317 in 4MOST catalog: 2529476566134035200. 
+                   Th_RA: 13.366, Th_DEC: -2.888. 
+                   4MOST_RA: 13.36598884178, 4MOST_DEC: -2.88811099931. 
+                   Th_teff: 4370, Th_logg: 0.56, Th_Met: -2.16, Th_FeH: -2.16+-0.01, Th_KFe: 0+-0.1. 
+Found match for J031337.3-102056 in 4MOST catalog: 5165907189554147584. 
+                   Th_RA: 48.40525, Th_DEC: -10.348694444444446. 
+                   4MOST_RA: 48.40538620834, 4MOST_DEC: -10.3487522466. 
+                   Th_teff: 4757, Th_logg: 1.47, Th_Met: -2.05, Th_FeH: -2.05+-0.02, Th_KFe: 0.73+-0.2. 
+Found match for J0858-0809 in 4MOST catalog: 5755996908175855232. 
+                   Th_RA: 134.52416666666667, Th_DEC: -8.154722222222222. 
+                   4MOST_RA: 134.52435627279, 4MOST_DEC: -8.15478914971. 
+                   Th_teff: 4530, Th_logg: 0.7, Th_Met: -3.16, Th_FeH: -3.16+-0.15, Th_KFe: 0.03+-0.3. 
+Found match for J1432-4125 in 4MOST catalog: 6103374133661596416. 
+                   Th_RA: 218.22208333333333, Th_DEC: -41.430277777777775. 
+                   4MOST_RA: 218.22189093141, 4MOST_DEC: -41.4305679903. 
+                   Th_teff: 4900, Th_logg: 1.7, Th_Met: -2.97, Th_FeH: -2.97+-0.13, Th_KFe: 1.44+-0.1. 
+Found match for RAVEJ093730.5-062655 in 4MOST catalog: 3820702889618832000. 
+                   Th_RA: 144.37725, Th_DEC: -6.448611111111111. 
+                   4MOST_RA: 144.37714107271, 4MOST_DEC: -6.448742356. 
+                   Th_teff: 5875, Th_logg: 2.31, Th_Met: -2.03, Th_FeH: -2.03+-0.05, Th_KFe: <1.18. 
+Found match for RAVEJ094921.8-161722 in 4MOST catalog: 5684624825278191744. 
+                   Th_RA: 147.34083333333334, Th_DEC: -16.289444444444445. 
+                   4MOST_RA: 147.34092310094, 4MOST_DEC: -16.28949723243. 
+                   Th_teff: 4855, Th_logg: 1.6, Th_Met: -2.22, Th_FeH: -2.22+-0.13, Th_KFe: 0.46+-0.2. 
+Found match for RAVEJ1830-4555 in 4MOST catalog: 6708532208165979392. 
+                   Th_RA: 277.5564166666667, Th_DEC: -45.91947222222222. 
+                   4MOST_RA: 277.5564814696, 4MOST_DEC: -45.91951353633. 
+                   Th_teff: 4765, Th_logg: 1.2, Th_Met: -3.57, Th_FeH: -3.57+-0.1, Th_KFe: <1.31. 
+Found match for RAVEJ203843.2-002333 in 4MOST catalog: 4226556850750887168. 
+                   Th_RA: 309.68, Th_DEC: -0.3925. 
+                   4MOST_RA: 309.67995041579, 4MOST_DEC: -0.39250625296. 
+                   Th_teff: 4630, Th_logg: 1.2, Th_Met: -2.91, Th_FeH: -2.93+-0.05, Th_KFe: 1.61+-0.04. 
+Found match for SMSSJ200322.54-114203.3 in 4MOST catalog: 4190620966764303488. 
+                   Th_RA: 300.843875, Th_DEC: -11.700772222222222. 
+                   4MOST_RA: 300.84393192485, 4MOST_DEC: -11.70097993036. 
+                   Th_teff: 5175, Th_logg: 2.44, Th_Met: -3.5, Th_FeH: -3.57+-0.11, Th_KFe: 2.2+-0.12. 
